@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://davidhandlos1.github.io/ev-rechner/sitemap.xml
